@@ -1,6 +1,6 @@
-# mindelevation
+# tensorflow
 
- 테스트 해본 레포짓입니다.
+ tensorflow/model.git 에서 클론하여 테스트 해본 레포짓입니다.
 
 ## Reference
 
